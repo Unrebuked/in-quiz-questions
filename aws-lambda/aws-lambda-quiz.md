@@ -162,3 +162,15 @@ AWS LAMBDA Assessment
 - Use a blueprint.  <<<<<------- CORRECT
 - Use a .zip deployment package.
 - Use the serverless app repository.
+
+#### It is AWS best practice to enable Lambda health logging by which of these methods?
+- Use Lambda metrics and CloudWatch alarms.
+- Create cutsom metrics within your CloudWatch code.
+- Use S3 metrics and CloudWatch alarms
+- Create custom metrics within your Lambda code
+
+#### How are environment variables stored?
+- key-value pairs
+- S3 buckets
+- none of these answers
+- DynamoDB tables
